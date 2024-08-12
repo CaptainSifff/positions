@@ -37,6 +37,7 @@ authors:
     initials: JPT
     affiliations:
       - Weierstrass Institute, Berlin, Germany
+      - Leibniz University Hannover, Institute of Applied Mathematics, Scientific Computing, Hannover, Germany
     orcid: 0000-0002-8901-6660
     email: thiele@wias-berlin.de
 
@@ -50,7 +51,8 @@ authors:
     email: jeremy.cohen@imperial.ac.uk
     acknowledgements: |
       JC acknowledges support from the UK Engineering and Physical Sciences
-      Research Council (UKRI-EPSRC) under grants EP/R025460/1 and EP/W035731/1.
+      Research Council (UKRI-EPSRC) under grants EP/R025460/1, EP/W035731/1 and
+      EP/Y530608/1.
 
   - author: "Renato Alves"
     firstName: Renato
@@ -159,6 +161,7 @@ authors:
     initials: GC
     affiliations:
       - School of Computation, Information and Technology, Technical University of Munich, Garching, Germany
+      - Institute for Parallel and Distributed Systems, University of Stuttgart, Stuttgart, Germany
     orcid: 0000-0002-3977-1385
     email: gerasimos.chourdakis@tum.de
 
@@ -212,6 +215,36 @@ authors:
       - Helmholtz-Zentrum Dresden-Rossendorf, Germany
     orcid: 0000-0002-9935-4428
     email: g.juckeland@hzdr.de
+
+  - author: "Stephan Druskat"
+    firstName: Stephan
+    lastName: Druskat
+    initials: SD
+    affiliations:
+      - German Aerospace Center (DLR), Institute for Software Technology, Berlin, Germany
+      - Humboldt-Universität zu Berlin, Department of Computer Science, Berlin, Germany
+    orcid: 0000-0003-4925-7248
+    email: stephan.druskat@dlr.de
+
+  - author: "Frank Löffler"
+    firstName: Frank
+    lastName: Löffler
+    initials: FL
+    affiliations:
+      - Michael Stifel Center Jena \& Friedrich Schiller University Jena, Germany
+    orcid: 0000-0001-6643-6323
+    email: frank.loeffler@uni-jena.de
+
+  - author: "Michele Martone"
+    firstName: Michele 
+    lastName: Martone
+    initials: MM
+    affiliations:
+      - Leibniz Supercomputing Centre, Garching, Germany
+    orcid: 0000-0003-3239-8554
+    email: michele.martone@lrz.de
+    acknowledgements: |
+      MM acknowledges funding from the SiVeGCS Project.
 
 # please use the following author template (all fields are optional):
 
